@@ -1,2 +1,2 @@
-# Calculator
-It is calculator for Windows. It wrote on C#
+# Square Equation
+It is programm for to solve square eqution.
