@@ -1,0 +1,10 @@
+E:\Courses\ТП\Лабораторная работа №2\SquareEquation\SquareEquation\bin\Debug\SquareEquation.exe.config
+E:\Courses\ТП\Лабораторная работа №2\SquareEquation\SquareEquation\bin\Debug\SquareEquation.exe
+E:\Courses\ТП\Лабораторная работа №2\SquareEquation\SquareEquation\bin\Debug\SquareEquation.pdb
+E:\Courses\ТП\Лабораторная работа №2\SquareEquation\SquareEquation\obj\Debug\SquareEquation.csprojAssemblyReference.cache
+E:\Courses\ТП\Лабораторная работа №2\SquareEquation\SquareEquation\obj\Debug\SquareEquation.Properties.Resources.resources
+E:\Courses\ТП\Лабораторная работа №2\SquareEquation\SquareEquation\obj\Debug\SquareEquation.csproj.GenerateResource.cache
+E:\Courses\ТП\Лабораторная работа №2\SquareEquation\SquareEquation\obj\Debug\SquareEquation.csproj.CoreCompileInputs.cache
+E:\Courses\ТП\Лабораторная работа №2\SquareEquation\SquareEquation\obj\Debug\SquareEquation.exe
+E:\Courses\ТП\Лабораторная работа №2\SquareEquation\SquareEquation\obj\Debug\SquareEquation.pdb
+E:\Courses\ТП\Лабораторная работа №2\SquareEquation\SquareEquation\obj\Debug\SquareEquation.Form1.resources
